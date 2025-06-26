@@ -1,0 +1,6 @@
+{
+  "name": "KBook - AI Book Maker - txt",
+  "description": "An AI-powered application to help users generate book structures, titles, and chapter content using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
